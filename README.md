@@ -10,11 +10,11 @@ feat: Initialize Spring Boot project with Redis database
 
 
 Features
-  Spring Boot Integration: Lightweight and scalable architecture
-  Redis as a Data Store: Utilizes Redis for key-value storage
-  CRUD Operations: Basic Create, Read, Update, and Delete functionalities
-  High Performance: Low-latency and in-memory processing for faster data retrieval
-  Scalability: Supports horizontal scaling with Redis clustering
+- Spring Boot Integration: Lightweight and scalable architecture
+- Redis as a Data Store: Utilizes Redis for key-value storage
+- CRUD Operations: Basic Create, Read, Update, and Delete functionalities
+- High Performance: Low-latency and in-memory processing for faster data retrieval
+- Scalability: Supports horizontal scaling with Redis clustering
 
 Tech Stack
   Spring Boot (Java)
