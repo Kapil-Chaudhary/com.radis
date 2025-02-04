@@ -17,7 +17,7 @@ Features
 - Scalability: Supports horizontal scaling with Redis clustering
 
 Tech Stack
-  Spring Boot (Java)
-  Redis (In-Memory Database)
-  Spring Data Redis (Redis Integration)
-  Lombok (For reducing boilerplate code)
+- Spring Boot (Java)
+- Redis (In-Memory Database)
+- Spring Data Redis (Redis Integration)
+- Lombok (For reducing boilerplate code)
